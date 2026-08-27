@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+
+data/
+vector_db/
+
+app_new_backup.py
